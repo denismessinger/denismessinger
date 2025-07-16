@@ -34,10 +34,10 @@
 ---
 
 <h2>📈 GitHub Status</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denismessinger&show_icons=true&theme=tokyonight&hide_rank=false" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismessinger&layout=compact&theme=tokyonight" alt="Top Langs" width="400px"/>
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=denismessinger&show_icons=true&theme=tokyonight&hide_rank=false" alt="GitHub Stats" style="border: 2px solid #007ACC; border-radius: 8px; padding: 5px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denismessinger&layout=compact&theme=tokyonight" alt="Top Langs" style="border: 2px solid #007ACC; border-radius: 8px; padding: 5px;"/>
+</div>
 
 ---
 
